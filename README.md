@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github.com/ericnbello/entertainment-web-app](https://github.com/kkalaianu/entertainmentapp)
+- Solution URL: [github.com/kkalaianu/entertainmentapp](https://github.com/kkalaianu/entertainmentapp)
 - Live Site URL: [streaming-web-app.firebaseapp.com/](https://streaming-web-app.firebaseapp.com/)
 
 ## My process
