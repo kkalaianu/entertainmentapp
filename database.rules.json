@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "media": {
+        ".write": true,
+        ".read": true
+      }
+  }
+}
