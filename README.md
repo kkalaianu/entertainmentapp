@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github.com/kkalaianu/entertainmentapp](https://github.com/kkalaianu/entertainmentapp)
-- Live Site URL: https://entertainment-web-fhghnvpl0-aleksfedotov1.vercel.app/
+- Live Site URL: https://hy-entertainment.netlify.app/
 
 ## My process
 
