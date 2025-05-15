@@ -26,9 +26,6 @@ Users should be able to:
 - Search for relevant shows on all pages
 - Login as a user to access video content pages
 
-### Screenshot
-
-![Project Screenshot](public/assets/screenshot.png)
 
 ### Links
 
