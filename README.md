@@ -1,6 +1,6 @@
 # Entertainment web app solution
 
-While this is a solution to create a full stack web application using Firebase.
+While this is a solution to create a full stack web application 
 
 ## Table of contents
 
@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github.com/kkalaianu/entertainmentapp](https://github.com/kkalaianu/entertainmentapp)
-- Live Site URL: [streaming-web-app.firebaseapp.com/](https://streaming-web-app.firebaseapp.com/)
+- Live Site URL: https://entertainment-web-fhghnvpl0-aleksfedotov1.vercel.app/
 
 ## My process
 
@@ -47,10 +47,10 @@ Users should be able to:
 - [React](https://reactjs.org/) - JS library
 - [Tailwind](https://tailwindcss.com/) - CSS utility framework
 - [React Router 6](https://reactrouter.com/)
-- [Google Firebase](https://firebase.google.com/) - Fully managed backend infrastrucutre
+
 
 ### Useful resources
 
 - [React Router 6](https://reactrouter.com/docs/en/v6/getting-started/tutorial) - This helped me become familiar with new features found in version 6. It's very thorough and I will continue to use it going forward.
-- [Firebase Documentation](https://firebase.google.com/docs/reference/js/auth) - Detailed documentation regarding Firebase authentication methods, making it simple to add login functionality to webpages.
+  
 
