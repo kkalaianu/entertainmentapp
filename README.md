@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github.com/kkalaianu/entertainmentapp](https://github.com/kkalaianu/entertainmentapp)
-- Live Site URL: https://hy-entertainment.netlify.app/
+- Live Site URL: https://entertainment-app-anurag-affection.vercel.app/
 
 ## My process
 
